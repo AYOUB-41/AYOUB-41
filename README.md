@@ -1,9 +1,9 @@
 # Hi there, I'm Ayoub Zouitine 👋
 
-### IT Support & Application Support | Full Stack Developer | Junior Data Analyst
+### IT Support & Application Support | Full Stack Developer | Junior Data Scientist
 *Combining technical troubleshooting, web development and data skills to deliver reliable, user-focused solutions.*
 
-📩 **Open to opportunities** in IT Support, Application Support / Help Desk and Junior Data roles, in Casablanca or remote.
+📩 **Open to opportunities** in IT Support, Application Support / Help Desk and Junior Data roles.
 
 ---
 
@@ -23,7 +23,7 @@
 | **Data & Analytics** | Python (Pandas, Scikit-learn), SQL (MySQL, PostgreSQL), Power BI, ETL pipelines (Talend) |
 | **Web Development** | PHP (Laravel), JavaScript (HTML5/CSS3), WordPress |
 | **Tools** | Git/GitHub, Docker |
-| **Also explored** | Machine Learning (XGBoost, Random Forest), Big Data (Hadoop: HDFS, MapReduce) |
+| **Also explored** | Deep Learning (GANs, neural networks), Cloud computing, Machine Learning (XGBoost, Random Forest), Big Data (Hadoop: HDFS, MapReduce) |
 
 ---
 
@@ -37,4 +37,3 @@
 
 ### 📫 Connect with me
 - **LinkedIn**: [linkedin.com/in/ayoub-zouitine-b2b01b307](https://www.linkedin.com/in/ayoub-zouitine-b2b01b307)
-- **Email**: zouitineayoub20@gmail.com
