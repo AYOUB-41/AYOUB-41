@@ -28,9 +28,9 @@
 ---
 
 ### 🚀 Highlighted Projects
+- 🛒 **[Customer Management Optimization – Marjane (Final-Year Project)](https://github.com/AYOUB-41/Projet-SFE-Optimisation-Gestion-Client-Marjane)**: RFM segmentation (K-Means), churn prediction (XGBoost / Random Forest), market basket analysis (FP-Growth), with Power BI and Streamlit dashboards.
 - 👥 **[HR Analytics – Attrition Diagnosis](https://github.com/AYOUB-41/HR-analytics-attrition-diagnosis)**: end-to-end pipeline with PostgreSQL (materialized views) and Power BI executive dashboards.
 - ⚽ **[Premier League Market Value Predictor](https://github.com/AYOUB-41/Premier-League-Market-Value-Predictor)**: ML pipeline to estimate player market values with Python.
-- 🏆 **[CAN 2025 Prediction – Morocco](https://github.com/AYOUB-41/CAN-2025-Prediction-Morocco)**: predictive tool for tournament simulations based on historical data.
 - 🔄 **ETL Framework**: automated integration flow with Talend & PostgreSQL for data warehousing.
 
 ---
